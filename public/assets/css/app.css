@@ -1,0 +1,17 @@
+/* Write your styles */
+body{min-width:1090px;}
+.yhp-content{width:96%;margin:30px auto;}
+.am-text-primary {
+    color: #ffaa00;
+}
+
+/*…Ã∆∑*/
+.brand{max-height:100px;overflow-y:scroll;}
+.brand a{color:#666;margin:10px;font-size:12px;}
+.brand a:hover{color:#ffaa00;}
+.active{color:#ffaa00;}
+.am-selected-btn.am-btn-default {
+    background: #fff;
+}
+table tr td img{max-width:100px;}
+input{padding:.3em;font-size: 1.6rem;}
